@@ -7,7 +7,7 @@ logging.basicConfig (level=logging.DEBUG, format='%(asctime)s - %(levelname)s - 
 
 
 email_sender = "hesham.tarek147@gmail.com"
-email_password = 'ngtm easo nyrz ufhl'
+email_password = # Password
 email_receiver= "hesham.tarek794@gmail.com"
 
 email_subject = " Congratulations"
